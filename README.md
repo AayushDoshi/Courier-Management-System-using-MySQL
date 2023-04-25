@@ -27,8 +27,7 @@ To install this database, follow these steps:
 
 1. Clone this repository to your local machine.
 2. Open MySQL Workbench and connect to your local MySQL server.
-3. Open the `courier_management_system.sql` file in MySQL Workbench.
-4. There are two files `creation` contains only database creation commands and the `querying` contains 10 queries listed above.
+3. There are two files `creation` contains only database creation commands and the `querying` contains 10 queries listed above.
 4. Run the file to create the database and tables.
 5. You can now start querying the data using SQL.
 
