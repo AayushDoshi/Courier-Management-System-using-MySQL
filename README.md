@@ -32,6 +32,5 @@ To install this database, follow these steps:
 4. Run the file to create the database and tables.
 5. You can now start querying the data using SQL.
 
-##Best of Luck
-
-##-Aayush Doshi
+Best of Luck
+-Aayush Doshi
