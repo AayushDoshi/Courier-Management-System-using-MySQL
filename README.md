@@ -30,7 +30,3 @@ To install this database, follow these steps:
 3. Open the `courier_management_system.sql` file in MySQL Workbench.
 4. Run the file to create the database and tables.
 5. You can now start querying the data using SQL.
-
-## License
-
-This database is released under the MIT License. Feel free to use it for any purpose, commercial or non-commercial.
